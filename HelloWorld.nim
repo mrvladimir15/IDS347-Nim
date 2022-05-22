@@ -1,6 +1,6 @@
 # import strutils
 # import std/[times,os]
-import std/httpclient
+# import std/httpclient
 
 ## Print Hello world
 # echo "Hello World"
